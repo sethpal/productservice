@@ -1,0 +1,5 @@
+data transfer objects
+
+used for getting/sending data to external system or third part apis
+
+DTOs are used to send and receive the object over networks
